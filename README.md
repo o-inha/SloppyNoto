@@ -1,6 +1,6 @@
 # Sloppy Noto
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://audiolize.space)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://audiolize.space](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb))
 
 Sloppy Noto is a data audiolizer. It turns numeric data into sound.
 
